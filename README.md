@@ -4,6 +4,7 @@ hyperparameter-db-project-db01 created by GitHub Classroom
 Database Project
 
 Members -  Amey Babar - 001465495 and Aniruddha Joshi - 001445393
+
 Project - Hyperparameter Database under TA, Project Manager: Prabhu Subramanian
 
 Sub Project - Creating a conceptual model and storing all the data into a physical database for different datasets in order to contribute to the hyperparameter database.
