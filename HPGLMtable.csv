@@ -1,0 +1,4 @@
+HP_ID,ModelName,tweedie_variance_power/default,tweedie_variance_power/actual,tweedie_link_power/default,tweedie_link_power/actual,alpha/default,alpha/actual/0,lambda/default,lambda/actual/0,standardize/default,standardize/actual,missing_values_handling/default,missing_values_handling/actual,balance_classes/default,balance_classes/actual,class_sampling_factors/default,class_sampling_factors/actual,max_after_balance_size/default,max_after_balance_size/actual,max_runtime_secs/default,max_runtime_secs/actual
+3,GLMgrid1AutoML20190421230946model1,0,0,1,1,,0,,10.26311177,TRUE,TRUE,MeanImputation,MeanImputation,FALSE,FALSE,,,5,5,0,5.5
+20,GLMgrid1AutoML20190422233034model1,0,0,1,1,,0,,10.26311177,TRUE,TRUE,MeanImputation,MeanImputation,FALSE,FALSE,,,5,5,0,11.16666667
+36,GLMgrid1AutoML20190423001614model1,0,0,1,1,,0,,10.26311177,TRUE,TRUE,MeanImputation,MeanImputation,FALSE,FALSE,,,5,5,0,18.16666667
